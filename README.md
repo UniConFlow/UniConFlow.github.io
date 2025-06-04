@@ -1,3 +1,3 @@
-# UniCon Flow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models
+# UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models
 
 Coming Soon...
